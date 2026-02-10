@@ -1,2 +1,2 @@
 # immensity-notes
-my second Repo
+I cloned my first Repo
